@@ -21,7 +21,9 @@ setup(
         "protobuf<5",
         "Pillow", 
         "dataframe_image",
-        "langchain_google_genai"
+        "langchain_google_genai",
+        "matplotlib"
+
        
     ],
     extras_require={
